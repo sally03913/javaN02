@@ -14,7 +14,7 @@
 	<div class="container  panel panel-danger">
 		<h3  class="panel-heading"> git</h3>
 		<p>1. 회원가입</p>
-		<p>2. Repositories </p>
+		<p>2. Repositories -new</p>
 		
 	</div>
 </body>
